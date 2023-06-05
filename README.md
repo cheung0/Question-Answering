@@ -8,5 +8,7 @@
 
 ## Links:
 https://python.langchain.com/en/latest/index.html
+
 https://python.langchain.com/en/latest/use_cases/question_answering.html
+
 Research article from pubmed: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5683125/
